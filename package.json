@@ -1,18 +1,20 @@
 {
   "name": "typescript-study",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "repository": "git@github.com:eotkd4791/typescript-study.git",
-  "author": "eotkd4791 <eotkd4791@gmail.com>",
-  "license": "MIT",
   "scripts": {
-    "build": "yarn tsc",
-    "watch": "yarn tsc --watch",
-    "exec": "node dist/index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependencies": {
-    "@types/node": "^16.9.1",
-    "tslint": "^6.1.3",
-    "typescript": "^4.4.3"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eotkd4791/typescript-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eotkd4791/typescript-study/issues"
+  },
+  "homepage": "https://github.com/eotkd4791/typescript-study#readme"
 }
