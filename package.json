@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/eotkd4791/typescript-study/issues"
   },
-  "homepage": "https://github.com/eotkd4791/typescript-study#readme"
+  "homepage": "https://github.com/eotkd4791/typescript-study#readme",
+  "dependencies": {
+    "typescript": "^4.4.3"
+  }
 }
