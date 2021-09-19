@@ -19,5 +19,6 @@
   "homepage": "https://github.com/eotkd4791/typescript-study#readme",
   "dependencies": {
     "typescript": "^4.4.3"
-  }
+  },
+  "devDependencies": {}
 }

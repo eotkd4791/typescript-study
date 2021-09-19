@@ -1,3 +1,4 @@
+export {};
 let numberOne = Math.ceil(Math.random() * 9);
 let numberTwo = Math.ceil(Math.random() * 9);
 let result = numberOne * numberTwo;
