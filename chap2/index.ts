@@ -1,4 +1,3 @@
-// tslint:disable-next-line: no-console
 console.log('Hello Typescript');
 
 let a = 1 + 2;
