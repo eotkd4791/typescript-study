@@ -5,7 +5,8 @@
     "outDir": "dist",
     "sourceMap": true,
     "strict": true,
-    "target": "es2015"
+    "target": "es2015",
+    "preserveConstEnums": true
   },
-  "include": ["chap2/src"]
+  "include": ["chap2/src", "chap2/index.ts"]
 }
